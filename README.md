@@ -11,7 +11,7 @@ Welcome to our Food Delivery Application, a Flutter-based project designed to pr
 - **Multiple Payment Options**: Supports various payment methods for user convenience.
 
 ## Screenshots
-<img src="lib\images\food.png" alt="Food Delivery App" width="600" height="500">
+<img src="lib\images\food.png" alt="Food Delivery App" width="700" height="500">
 
 
 
